@@ -35,6 +35,5 @@
   "resolutions": {
     "terser": "3.14.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
